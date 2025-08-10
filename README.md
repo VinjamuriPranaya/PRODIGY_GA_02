@@ -32,7 +32,10 @@ Click below to open the notebook directly in Google Colab:
 ```text
 A futuristic cityscape at sunset with flying cars and neon lights
 
+
+
+---
 ## 🖼️ Output Screenshot
 
-![Image generator](sample.png)
+(sample.png)
 
