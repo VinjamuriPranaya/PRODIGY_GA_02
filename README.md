@@ -35,7 +35,8 @@ A futuristic cityscape at sunset with flying cars and neon lights
 
 
 ---
+
 ## 🖼️ Output Screenshot
 
-(sample.png)
+![Generated Output Preview](sample.png)
 
